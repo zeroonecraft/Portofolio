@@ -32,7 +32,7 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Bintang 1302",
-  tagline: "Newbie Web Developer",
+  tagline: "Newbie web developer",
   img: profile,
   about: `Pengembang frontend memiliki keahlian dalam pengembangan frontend dan individu bermotivasi tinggi yang berdedikasi untuk menulis kode yang jelas, ringkas, dan kuat yang berfungsi. Saya suka membuat produk yang memiliki fitur menyenangkan dan bagus atau memecahkan masalah nyata bagi orang-orang.`,
 };
