@@ -6,17 +6,12 @@ function Technologies() {
     html,
     css,
     js,
-    react,
-    redux,
-    tailwind,
     bootstrap,
-    sass,
     vscode,
     git,
     github,
     npm,
     postman,
-    figma,
   } = techStackDetails;
   return (
     <main className="container mx-auto max-width pt-10 pb-20 ">
